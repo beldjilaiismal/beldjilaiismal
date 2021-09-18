@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beldjilaiismal
+- 👋 Hi, I’m @beldjilaiismail
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Ai
 - 💞️ I’m looking to collaborate on ...
